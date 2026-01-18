@@ -8,7 +8,7 @@
 <img src="posters/oxford_warm_beige_20260118_200421.png" width="400">
 
 ## 🚀 New Features
-This fork introduces `create_interactive_map.py`, a powerful engine that allows you to:
+This fork introduces `create_interactive_map_poster.py`, a powerful engine that allows you to:
 1.  **Visualize Buildings:** Automatically downloads and renders buildings in a subtle "blueprint" style (`z-index` optimized).
 2.  **Interactive Highlighting:** Highlight specific city features (Universities, Military Zones, Hospitals) without writing code.
 3.  **Smart Layering:** Highlights are drawn with a faded fill *under* buildings and a strong contour *over* roads.
